@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Resto Rank Appl</string>
+    <string name="bill_label">BILL:</string>
+    <string name="hint_label">type total bill as integer</string>
+    <string name="tip_label">Tip:</string>
+    <string name="total_label">Total:</string>
+</resources>
